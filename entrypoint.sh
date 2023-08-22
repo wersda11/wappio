@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 定义 UUID 及 伪装路径,请自行修改.(注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID='de04add9-5c68-8bab-950c-08cd5320df18'
+UUID='6e606de1-c401-4c25-a91b-1d123721c56f'
 VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
